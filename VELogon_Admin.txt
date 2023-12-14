@@ -1,0 +1,5 @@
+As of 1.6.x.x VELogon now has an administrative Mode which will perform an immediate push of the Policy Profile to all users with a profile.
+
+To Run VELogin in Administrative mode, start the script with the /a command line option
+
+
